@@ -42,9 +42,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-
-![image](https://github.com/user-attachments/assets/dd88560c-e3b2-403e-a583-b19065431715)
-
+![image](https://github.com/user-attachments/assets/bf8d7caf-43c7-42c7-b63d-8cf8c9148ef0)
 
 ## RESULT: 
 
