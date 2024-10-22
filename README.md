@@ -25,7 +25,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "https://www.amazon.com/";
+    char url[] = "https://www.googlecom/";
     char key[] = "secretkey"; // Simple key for XOR encryption
 
     printf("Original URL: %s\n", url);
@@ -42,7 +42,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/bf8d7caf-43c7-42c7-b63d-8cf8c9148ef0)
+![image](https://github.com/user-attachments/assets/4ce277a9-8fd9-4a0c-bea9-b00b8aa4402c)
 
 ## RESULT: 
 
